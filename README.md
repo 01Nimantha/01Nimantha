@@ -1,3 +1,5 @@
+<div align="center" ><img src = "https://github.com/01Nimantha/01Nimantha/blob/41866adf28c3c614340e8a8f42bc3b384a82c2de/about_me.gif" width = 200px></div> 
+
 <h1 align="center">Hi 👋, I'm Nimantha Madhushan</h1>
 <h3 align="center">A passionate web, mobile, 3D asset, and game developer from Sri Lanka</h3>
 
