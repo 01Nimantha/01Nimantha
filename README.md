@@ -1,4 +1,4 @@
-[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://raw.githubusercontent.com/01Nimantha/CV/main/Nimantha-Madhushan-FlowCV-Resume-20250314.pdf)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://raw.githubusercontent.com/01Nimantha/CV/main/Nimantha-Madhushan-Resume.pdf)
 
 <div align="center" ><img src = "https://github.com/01Nimantha/01Nimantha/blob/41866adf28c3c614340e8a8f42bc3b384a82c2de/about_me.gif" width = 200px></div> 
 
