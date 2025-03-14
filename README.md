@@ -1,9 +1,13 @@
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://raw.githubusercontent.com/01Nimantha/CV/main/Nimantha-Madhushan-FlowCV-Resume-20250314.pdf)
+
 <div align="center" ><img src = "https://github.com/01Nimantha/01Nimantha/blob/41866adf28c3c614340e8a8f42bc3b384a82c2de/about_me.gif" width = 200px></div> 
 
 <h1 align="center">Hi 👋, I'm Nimantha Madhushan</h1>
 <h3 align="center">A passionate web, mobile, 3D asset, and game developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=01nimantha&label=Profile%20views&color=0e75b6&style=flat" alt="01nimantha" /> </p>
+
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=01nimantha" alt="01nimantha" /></a> </p>
 
